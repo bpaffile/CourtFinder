@@ -1,0 +1,70 @@
+
+html {
+    height: 100%;
+  }
+  body {
+     width: 800px;
+     height: 100%;
+  }
+
+  header {
+      background-color: #4b8d8a;
+      padding-left: 275px;
+      border: 5px solid black;
+      margin: 20px;
+      font-size: 25px;
+      display: block;
+  }
+  nav {
+    /* display: inline-block; */
+    text-align: center;
+    list-style-type: none;
+  }
+   nav ul {
+      padding-right: 10px;
+
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 15px;
+   }
+  /* nav li a {
+      display: block; 
+      height: 25px;
+      padding-left: ;
+      vertical-align: middle;
+  }   */
+  a {
+      color: ;
+  }
+  section {
+      width: 73%;
+
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
+   .basketball {
+    width: 500px;
+
+     
+  }
+ /* .p {
+    float:  left;
+}  */
